@@ -69,6 +69,14 @@ your system. Install the required dependencies using the requirements
 file by running the appropriate command in the terminal. This ensures
 that all necessary libraries are available for execution.
 
+## How to Run
+
+1. Install dependencies:
+   pip install -r requirements.txt
+
+2. Run:
+   python main.py
+
 ## Usage
 
 The application is executed through the main Python file. Once started,
