@@ -1,0 +1,355 @@
+{
+    "questions": [
+        {
+            "question": "Define Artificial Intelligence.",
+            "label": "Skip",
+            "time": 9,
+            "marks": 2,
+            "frequency": 3
+        },
+        {
+            "question": "Who coined the term Artificial Intelligence?",
+            "label": "Skip",
+            "time": 9,
+            "marks": 2,
+            "frequency": 3
+        },
+        {
+            "question": "What is Propositional Logic?",
+            "label": "Skip",
+            "time": 9,
+            "marks": 2,
+            "frequency": 3
+        },
+        {
+            "question": "Define a proposition.",
+            "label": "Skip",
+            "time": 7,
+            "marks": 2,
+            "frequency": 2
+        },
+        {
+            "question": "What are logical operators?",
+            "label": "Skip",
+            "time": 9,
+            "marks": 2,
+            "frequency": 3
+        },
+        {
+            "question": "Define First Order Logic (FOL).",
+            "label": "Skip",
+            "time": 9,
+            "marks": 2,
+            "frequency": 3
+        },
+        {
+            "question": "What are predicates?",
+            "label": "Skip",
+            "time": 7,
+            "marks": 2,
+            "frequency": 2
+        },
+        {
+            "question": "Define quantifiers.",
+            "label": "Skip",
+            "time": 9,
+            "marks": 2,
+            "frequency": 3
+        },
+        {
+            "question": "What is syntax in logic?",
+            "label": "Skip",
+            "time": 7,
+            "marks": 2,
+            "frequency": 2
+        },
+        {
+            "question": "What is semantics in logic?",
+            "label": "Skip",
+            "time": 7,
+            "marks": 2,
+            "frequency": 2
+        },
+        {
+            "question": "Explain types of AI.",
+            "label": "Study",
+            "time": 13,
+            "marks": 5,
+            "frequency": 3
+        },
+        {
+            "question": "Differentiate AI, ML, and DL.",
+            "label": "Study",
+            "time": 13,
+            "marks": 5,
+            "frequency": 3
+        },
+        {
+            "question": "Explain Propositional Logic with example.",
+            "label": "Study",
+            "time": 13,
+            "marks": 5,
+            "frequency": 3
+        },
+        {
+            "question": "Explain logical operators in detail.",
+            "label": "Study",
+            "time": 13,
+            "marks": 5,
+            "frequency": 3
+        },
+        {
+            "question": "Difference between PL and FOL.",
+            "label": "Study",
+            "time": 13,
+            "marks": 5,
+            "frequency": 3
+        },
+        {
+            "question": "Explain components of FOL.",
+            "label": "Study",
+            "time": 13,
+            "marks": 5,
+            "frequency": 3
+        },
+        {
+            "question": "Explain quantifiers with examples.",
+            "label": "Study",
+            "time": 13,
+            "marks": 5,
+            "frequency": 3
+        },
+        {
+            "question": "Write examples of predicates.",
+            "label": "Study",
+            "time": 11,
+            "marks": 5,
+            "frequency": 2
+        },
+        {
+            "question": "Explain atomic vs complex sentences.",
+            "label": "Study",
+            "time": 13,
+            "marks": 5,
+            "frequency": 3
+        },
+        {
+            "question": "Explain real-life applications of AI.",
+            "label": "Study",
+            "time": 11,
+            "marks": 5,
+            "frequency": 2
+        },
+        {
+            "question": "Explain AI in detail with applications.",
+            "label": "Study",
+            "time": 20,
+            "marks": 10,
+            "frequency": 3
+        },
+        {
+            "question": "Discuss evolution of AI.",
+            "label": "Study",
+            "time": 19,
+            "marks": 10,
+            "frequency": 2
+        },
+        {
+            "question": "Explain types of AI in detail.",
+            "label": "Study",
+            "time": 20,
+            "marks": 10,
+            "frequency": 3
+        },
+        {
+            "question": "Explain Propositional Logic with examples.",
+            "label": "Study",
+            "time": 20,
+            "marks": 10,
+            "frequency": 3
+        },
+        {
+            "question": "Explain FOL in detail.",
+            "label": "Study",
+            "time": 20,
+            "marks": 10,
+            "frequency": 3
+        },
+        {
+            "question": "Compare PL vs FOL.",
+            "label": "Study",
+            "time": 20,
+            "marks": 10,
+            "frequency": 3
+        },
+        {
+            "question": "Explain quantifiers in detail.",
+            "label": "Study",
+            "time": 20,
+            "marks": 10,
+            "frequency": 3
+        },
+        {
+            "question": "Explain logical connectives.",
+            "label": "Study",
+            "time": 20,
+            "marks": 10,
+            "frequency": 3
+        },
+        {
+            "question": "Explain knowledge representation.",
+            "label": "Study",
+            "time": 20,
+            "marks": 10,
+            "frequency": 3
+        },
+        {
+            "question": "Explain syntax and semantics.",
+            "label": "Study",
+            "time": 19,
+            "marks": 10,
+            "frequency": 2
+        },
+        {
+            "question": "Write advantages of AI.",
+            "label": "Study",
+            "time": 11,
+            "marks": 5,
+            "frequency": 2
+        },
+        {
+            "question": "Explain reactive machines.",
+            "label": "Study",
+            "time": 13,
+            "marks": 5,
+            "frequency": 3
+        },
+        {
+            "question": "What is universal quantifier?",
+            "label": "Skip",
+            "time": 9,
+            "marks": 2,
+            "frequency": 3
+        },
+        {
+            "question": "What is existential quantifier?",
+            "label": "Skip",
+            "time": 9,
+            "marks": 2,
+            "frequency": 3
+        },
+        {
+            "question": "Explain predicates with example.",
+            "label": "Study",
+            "time": 13,
+            "marks": 5,
+            "frequency": 3
+        },
+        {
+            "question": "Write symbols of propositional logic.",
+            "label": "Skip",
+            "time": 7,
+            "marks": 2,
+            "frequency": 2
+        },
+        {
+            "question": "What is implication?",
+            "label": "Skip",
+            "time": 9,
+            "marks": 2,
+            "frequency": 3
+        },
+        {
+            "question": "Explain AND, OR, NOT operators.",
+            "label": "Study",
+            "time": 13,
+            "marks": 5,
+            "frequency": 3
+        },
+        {
+            "question": "Explain FOL structure.",
+            "label": "Study",
+            "time": 13,
+            "marks": 5,
+            "frequency": 3
+        },
+        {
+            "question": "Define atomic sentence.",
+            "label": "Skip",
+            "time": 7,
+            "marks": 2,
+            "frequency": 2
+        },
+        {
+            "question": "Define complex sentence.",
+            "label": "Skip",
+            "time": 7,
+            "marks": 2,
+            "frequency": 2
+        },
+        {
+            "question": "Explain relation in FOL.",
+            "label": "Study",
+            "time": 11,
+            "marks": 5,
+            "frequency": 2
+        },
+        {
+            "question": "Explain function in FOL.",
+            "label": "Study",
+            "time": 11,
+            "marks": 5,
+            "frequency": 2
+        },
+        {
+            "question": "What is knowledge representation?",
+            "label": "Skip",
+            "time": 9,
+            "marks": 2,
+            "frequency": 3
+        },
+        {
+            "question": "Applications of AI.",
+            "label": "Study",
+            "time": 11,
+            "marks": 5,
+            "frequency": 2
+        },
+        {
+            "question": "Difference between syntax and semantics.",
+            "label": "Study",
+            "time": 11,
+            "marks": 5,
+            "frequency": 2
+        },
+        {
+            "question": "Explain AI capabilities.",
+            "label": "Study",
+            "time": 11,
+            "marks": 5,
+            "frequency": 2
+        },
+        {
+            "question": "Write short note on Machine Learning.",
+            "label": "Study",
+            "time": 11,
+            "marks": 5,
+            "frequency": 2
+        },
+        {
+            "question": "Explain logical expressions.",
+            "label": "Study",
+            "time": 13,
+            "marks": 5,
+            "frequency": 3
+        },
+        {
+            "question": "Define variables in FOL.",
+            "label": "Skip",
+            "time": 7,
+            "marks": 2,
+            "frequency": 2
+        }
+    ],
+    "total_time": 612
+}

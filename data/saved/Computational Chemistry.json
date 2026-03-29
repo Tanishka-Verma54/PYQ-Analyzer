@@ -1,0 +1,348 @@
+{
+    "questions": [
+        {
+            "question": "Define computational chemistry.",
+            "label": "Skip",
+            "time": 9,
+            "marks": 2,
+            "frequency": 3
+        },
+        {
+            "question": "What is quantum chemistry?",
+            "label": "Skip",
+            "time": 9,
+            "marks": 2,
+            "frequency": 3
+        },
+        {
+            "question": "Define wave function.",
+            "label": "Skip",
+            "time": 7,
+            "marks": 2,
+            "frequency": 2
+        },
+        {
+            "question": "What is Schr\u00f6dinger equation?",
+            "label": "Skip",
+            "time": 9,
+            "marks": 2,
+            "frequency": 3
+        },
+        {
+            "question": "What is potential energy surface?",
+            "label": "Skip",
+            "time": 7,
+            "marks": 2,
+            "frequency": 2
+        },
+        {
+            "question": "Define thermodynamic system.",
+            "label": "Skip",
+            "time": 9,
+            "marks": 2,
+            "frequency": 3
+        },
+        {
+            "question": "What is entropy?",
+            "label": "Skip",
+            "time": 7,
+            "marks": 2,
+            "frequency": 2
+        },
+        {
+            "question": "Define Gibbs free energy.",
+            "label": "Skip",
+            "time": 9,
+            "marks": 2,
+            "frequency": 3
+        },
+        {
+            "question": "What is molecular modeling?",
+            "label": "Skip",
+            "time": 7,
+            "marks": 2,
+            "frequency": 2
+        },
+        {
+            "question": "Explain Bohr model.",
+            "label": "Skip",
+            "time": 7,
+            "marks": 2,
+            "frequency": 2
+        },
+        {
+            "question": "Explain Schr\u00f6dinger equation in detail.",
+            "label": "Study",
+            "time": 13,
+            "marks": 5,
+            "frequency": 3
+        },
+        {
+            "question": "Explain quantum numbers.",
+            "label": "Study",
+            "time": 13,
+            "marks": 5,
+            "frequency": 3
+        },
+        {
+            "question": "Explain atomic orbitals.",
+            "label": "Study",
+            "time": 13,
+            "marks": 5,
+            "frequency": 3
+        },
+        {
+            "question": "Difference between classical and quantum mechanics.",
+            "label": "Study",
+            "time": 11,
+            "marks": 5,
+            "frequency": 2
+        },
+        {
+            "question": "Explain chemical bonding in quantum terms.",
+            "label": "Study",
+            "time": 13,
+            "marks": 5,
+            "frequency": 3
+        },
+        {
+            "question": "Explain probability density.",
+            "label": "Study",
+            "time": 11,
+            "marks": 5,
+            "frequency": 2
+        },
+        {
+            "question": "Explain electron configuration.",
+            "label": "Study",
+            "time": 13,
+            "marks": 5,
+            "frequency": 3
+        },
+        {
+            "question": "Explain molecular orbitals.",
+            "label": "Study",
+            "time": 11,
+            "marks": 5,
+            "frequency": 2
+        },
+        {
+            "question": "Explain basis sets.",
+            "label": "Study",
+            "time": 13,
+            "marks": 5,
+            "frequency": 3
+        },
+        {
+            "question": "Explain laws of thermodynamics.",
+            "label": "Study",
+            "time": 11,
+            "marks": 5,
+            "frequency": 2
+        },
+        {
+            "question": "Explain first law of thermodynamics.",
+            "label": "Study",
+            "time": 20,
+            "marks": 10,
+            "frequency": 3
+        },
+        {
+            "question": "Explain second law of thermodynamics.",
+            "label": "Study",
+            "time": 19,
+            "marks": 10,
+            "frequency": 2
+        },
+        {
+            "question": "Explain entropy in detail.",
+            "label": "Study",
+            "time": 20,
+            "marks": 10,
+            "frequency": 3
+        },
+        {
+            "question": "Explain Gibbs free energy.",
+            "label": "Study",
+            "time": 20,
+            "marks": 10,
+            "frequency": 3
+        },
+        {
+            "question": "Explain enthalpy.",
+            "label": "Study",
+            "time": 19,
+            "marks": 10,
+            "frequency": 2
+        },
+        {
+            "question": "Explain thermodynamic equilibrium.",
+            "label": "Study",
+            "time": 20,
+            "marks": 10,
+            "frequency": 3
+        },
+        {
+            "question": "Explain phase transitions.",
+            "label": "Study",
+            "time": 19,
+            "marks": 10,
+            "frequency": 2
+        },
+        {
+            "question": "Explain partition function.",
+            "label": "Study",
+            "time": 20,
+            "marks": 10,
+            "frequency": 3
+        },
+        {
+            "question": "Explain statistical mechanics basics.",
+            "label": "Study",
+            "time": 19,
+            "marks": 10,
+            "frequency": 2
+        },
+        {
+            "question": "Explain potential energy surfaces.",
+            "label": "Study",
+            "time": 20,
+            "marks": 10,
+            "frequency": 3
+        },
+        {
+            "question": "Explain molecular forces.",
+            "label": "Study",
+            "time": 13,
+            "marks": 5,
+            "frequency": 3
+        },
+        {
+            "question": "Define force field.",
+            "label": "Study",
+            "time": 11,
+            "marks": 5,
+            "frequency": 2
+        },
+        {
+            "question": "Define simulation box.",
+            "label": "Skip",
+            "time": 9,
+            "marks": 2,
+            "frequency": 3
+        },
+        {
+            "question": "Explain molecular dynamics.",
+            "label": "Skip",
+            "time": 9,
+            "marks": 2,
+            "frequency": 3
+        },
+        {
+            "question": "Define time step.",
+            "label": "Study",
+            "time": 11,
+            "marks": 5,
+            "frequency": 2
+        },
+        {
+            "question": "Explain integration algorithms.",
+            "label": "Skip",
+            "time": 9,
+            "marks": 2,
+            "frequency": 3
+        },
+        {
+            "question": "Explain Verlet algorithm.",
+            "label": "Skip",
+            "time": 9,
+            "marks": 2,
+            "frequency": 3
+        },
+        {
+            "question": "Explain energy conservation.",
+            "label": "Study",
+            "time": 13,
+            "marks": 5,
+            "frequency": 3
+        },
+        {
+            "question": "Define temperature in simulation.",
+            "label": "Study",
+            "time": 11,
+            "marks": 5,
+            "frequency": 2
+        },
+        {
+            "question": "Define pressure in simulation.",
+            "label": "Skip",
+            "time": 7,
+            "marks": 2,
+            "frequency": 2
+        },
+        {
+            "question": "Explain ensembles.",
+            "label": "Skip",
+            "time": 7,
+            "marks": 2,
+            "frequency": 2
+        },
+        {
+            "question": "Explain NVT and NPT ensembles.",
+            "label": "Study",
+            "time": 11,
+            "marks": 5,
+            "frequency": 2
+        },
+        {
+            "question": "Define boundary conditions.",
+            "label": "Study",
+            "time": 11,
+            "marks": 5,
+            "frequency": 2
+        },
+        {
+            "question": "Explain periodic boundary conditions.",
+            "label": "Skip",
+            "time": 9,
+            "marks": 2,
+            "frequency": 3
+        },
+        {
+            "question": "Explain simulation stability.",
+            "label": "Study",
+            "time": 11,
+            "marks": 5,
+            "frequency": 2
+        },
+        {
+            "question": "Explain computational modeling.",
+            "label": "Study",
+            "time": 11,
+            "marks": 5,
+            "frequency": 2
+        },
+        {
+            "question": "Write note on software in chemistry.",
+            "label": "Study",
+            "time": 11,
+            "marks": 5,
+            "frequency": 2
+        },
+        {
+            "question": "Explain visualization tools.",
+            "label": "Study",
+            "time": 11,
+            "marks": 5,
+            "frequency": 2
+        },
+        {
+            "question": "Define variables in simulation.",
+            "label": "Study",
+            "time": 13,
+            "marks": 5,
+            "frequency": 3
+        }
+    ],
+    "total_time": 595
+}

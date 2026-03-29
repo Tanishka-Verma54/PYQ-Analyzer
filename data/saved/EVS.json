@@ -1,0 +1,355 @@
+{
+    "questions": [
+        {
+            "question": "Define sustainability.",
+            "label": "Skip",
+            "time": 9,
+            "marks": 2,
+            "frequency": 3
+        },
+        {
+            "question": "Define global warming.",
+            "label": "Skip",
+            "time": 9,
+            "marks": 2,
+            "frequency": 3
+        },
+        {
+            "question": "What is ozone depletion?",
+            "label": "Skip",
+            "time": 7,
+            "marks": 2,
+            "frequency": 2
+        },
+        {
+            "question": "Define pollution.",
+            "label": "Skip",
+            "time": 9,
+            "marks": 2,
+            "frequency": 3
+        },
+        {
+            "question": "Define biodiversity.",
+            "label": "Skip",
+            "time": 7,
+            "marks": 2,
+            "frequency": 2
+        },
+        {
+            "question": "Types of biodiversity.",
+            "label": "Skip",
+            "time": 9,
+            "marks": 2,
+            "frequency": 3
+        },
+        {
+            "question": "Define ecosystem.",
+            "label": "Skip",
+            "time": 7,
+            "marks": 2,
+            "frequency": 2
+        },
+        {
+            "question": "Define food chain.",
+            "label": "Skip",
+            "time": 9,
+            "marks": 2,
+            "frequency": 3
+        },
+        {
+            "question": "Define producers and consumers.",
+            "label": "Skip",
+            "time": 7,
+            "marks": 2,
+            "frequency": 2
+        },
+        {
+            "question": "Define ecological pyramid.",
+            "label": "Skip",
+            "time": 7,
+            "marks": 2,
+            "frequency": 2
+        },
+        {
+            "question": "What is carbon cycle?",
+            "label": "Skip",
+            "time": 9,
+            "marks": 2,
+            "frequency": 3
+        },
+        {
+            "question": "Define nitrogen cycle.",
+            "label": "Skip",
+            "time": 7,
+            "marks": 2,
+            "frequency": 2
+        },
+        {
+            "question": "What is population growth?",
+            "label": "Skip",
+            "time": 9,
+            "marks": 2,
+            "frequency": 3
+        },
+        {
+            "question": "Define fertility rate.",
+            "label": "Skip",
+            "time": 7,
+            "marks": 2,
+            "frequency": 2
+        },
+        {
+            "question": "Define renewable energy.",
+            "label": "Skip",
+            "time": 9,
+            "marks": 2,
+            "frequency": 3
+        },
+        {
+            "question": "Define non-renewable energy.",
+            "label": "Skip",
+            "time": 7,
+            "marks": 2,
+            "frequency": 2
+        },
+        {
+            "question": "What is biomass energy?",
+            "label": "Skip",
+            "time": 9,
+            "marks": 2,
+            "frequency": 3
+        },
+        {
+            "question": "What is solar energy?",
+            "label": "Skip",
+            "time": 7,
+            "marks": 2,
+            "frequency": 2
+        },
+        {
+            "question": "Define wind energy.",
+            "label": "Skip",
+            "time": 9,
+            "marks": 2,
+            "frequency": 3
+        },
+        {
+            "question": "Define sustainable development.",
+            "label": "Skip",
+            "time": 7,
+            "marks": 2,
+            "frequency": 2
+        },
+        {
+            "question": "Explain causes of global warming.",
+            "label": "Study",
+            "time": 13,
+            "marks": 5,
+            "frequency": 3
+        },
+        {
+            "question": "Effects of ozone depletion.",
+            "label": "Study",
+            "time": 11,
+            "marks": 5,
+            "frequency": 2
+        },
+        {
+            "question": "Types of pollution.",
+            "label": "Study",
+            "time": 13,
+            "marks": 5,
+            "frequency": 3
+        },
+        {
+            "question": "Explain biodiversity importance.",
+            "label": "Study",
+            "time": 13,
+            "marks": 5,
+            "frequency": 3
+        },
+        {
+            "question": "Explain ecosystem structure.",
+            "label": "Study",
+            "time": 11,
+            "marks": 5,
+            "frequency": 2
+        },
+        {
+            "question": "Explain food chain and food web.",
+            "label": "Study",
+            "time": 13,
+            "marks": 5,
+            "frequency": 3
+        },
+        {
+            "question": "Explain energy flow in ecosystem.",
+            "label": "Study",
+            "time": 13,
+            "marks": 5,
+            "frequency": 3
+        },
+        {
+            "question": "Explain carbon cycle.",
+            "label": "Study",
+            "time": 11,
+            "marks": 5,
+            "frequency": 2
+        },
+        {
+            "question": "Explain nitrogen cycle.",
+            "label": "Study",
+            "time": 13,
+            "marks": 5,
+            "frequency": 3
+        },
+        {
+            "question": "Factors affecting population.",
+            "label": "Study",
+            "time": 11,
+            "marks": 5,
+            "frequency": 2
+        },
+        {
+            "question": "Explain population growth curve.",
+            "label": "Study",
+            "time": 13,
+            "marks": 5,
+            "frequency": 3
+        },
+        {
+            "question": "Explain renewable energy sources.",
+            "label": "Study",
+            "time": 11,
+            "marks": 5,
+            "frequency": 2
+        },
+        {
+            "question": "Explain non-renewable energy.",
+            "label": "Study",
+            "time": 13,
+            "marks": 5,
+            "frequency": 3
+        },
+        {
+            "question": "Explain solar energy working.",
+            "label": "Study",
+            "time": 11,
+            "marks": 5,
+            "frequency": 2
+        },
+        {
+            "question": "Explain wind energy advantages.",
+            "label": "Study",
+            "time": 11,
+            "marks": 5,
+            "frequency": 2
+        },
+        {
+            "question": "Global warming causes & solutions.",
+            "label": "Study",
+            "time": 19,
+            "marks": 10,
+            "frequency": 2
+        },
+        {
+            "question": "Pollution types & control.",
+            "label": "Study",
+            "time": 20,
+            "marks": 10,
+            "frequency": 3
+        },
+        {
+            "question": "Biodiversity conservation methods.",
+            "label": "Study",
+            "time": 20,
+            "marks": 10,
+            "frequency": 3
+        },
+        {
+            "question": "Ecosystem components explanation.",
+            "label": "Study",
+            "time": 19,
+            "marks": 10,
+            "frequency": 2
+        },
+        {
+            "question": "Energy flow in ecosystem diagram.",
+            "label": "Study",
+            "time": 20,
+            "marks": 10,
+            "frequency": 3
+        },
+        {
+            "question": "Population growth and its impacts.",
+            "label": "Study",
+            "time": 19,
+            "marks": 10,
+            "frequency": 2
+        },
+        {
+            "question": "Population control methods.",
+            "label": "Study",
+            "time": 19,
+            "marks": 10,
+            "frequency": 2
+        },
+        {
+            "question": "Renewable vs non-renewable energy.",
+            "label": "Study",
+            "time": 20,
+            "marks": 10,
+            "frequency": 3
+        },
+        {
+            "question": "Energy crisis and solutions.",
+            "label": "Study",
+            "time": 19,
+            "marks": 10,
+            "frequency": 2
+        },
+        {
+            "question": "Sustainable development strategies.",
+            "label": "Study",
+            "time": 20,
+            "marks": 10,
+            "frequency": 3
+        },
+        {
+            "question": "Environmental issues and solutions.",
+            "label": "Study",
+            "time": 19,
+            "marks": 10,
+            "frequency": 2
+        },
+        {
+            "question": "Role of technology in environment.",
+            "label": "Study",
+            "time": 19,
+            "marks": 10,
+            "frequency": 2
+        },
+        {
+            "question": "Human impact on ecosystem.",
+            "label": "Study",
+            "time": 19,
+            "marks": 10,
+            "frequency": 2
+        },
+        {
+            "question": "Conservation strategies.",
+            "label": "Study",
+            "time": 20,
+            "marks": 10,
+            "frequency": 3
+        },
+        {
+            "question": "Climate change and mitigation.",
+            "label": "Study",
+            "time": 20,
+            "marks": 10,
+            "frequency": 3
+        }
+    ],
+    "total_time": 633
+}

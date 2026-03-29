@@ -1,0 +1,355 @@
+{
+    "questions": [
+        {
+            "question": "Define computational physics.",
+            "label": "Skip",
+            "time": 9,
+            "marks": 2,
+            "frequency": 3
+        },
+        {
+            "question": "What is numerical computation?",
+            "label": "Skip",
+            "time": 9,
+            "marks": 2,
+            "frequency": 3
+        },
+        {
+            "question": "Define algorithm.",
+            "label": "Skip",
+            "time": 9,
+            "marks": 2,
+            "frequency": 3
+        },
+        {
+            "question": "What is iteration method?",
+            "label": "Skip",
+            "time": 7,
+            "marks": 2,
+            "frequency": 2
+        },
+        {
+            "question": "Define convergence.",
+            "label": "Skip",
+            "time": 7,
+            "marks": 2,
+            "frequency": 2
+        },
+        {
+            "question": "What is truncation error?",
+            "label": "Skip",
+            "time": 9,
+            "marks": 2,
+            "frequency": 3
+        },
+        {
+            "question": "Define round-off error.",
+            "label": "Skip",
+            "time": 7,
+            "marks": 2,
+            "frequency": 2
+        },
+        {
+            "question": "What is floating point representation?",
+            "label": "Skip",
+            "time": 9,
+            "marks": 2,
+            "frequency": 3
+        },
+        {
+            "question": "Define numerical stability.",
+            "label": "Skip",
+            "time": 7,
+            "marks": 2,
+            "frequency": 2
+        },
+        {
+            "question": "What is simulation?",
+            "label": "Skip",
+            "time": 7,
+            "marks": 2,
+            "frequency": 2
+        },
+        {
+            "question": "Explain arithmetic and geometric sequences.",
+            "label": "Study",
+            "time": 13,
+            "marks": 5,
+            "frequency": 3
+        },
+        {
+            "question": "Explain random numbers in computation.",
+            "label": "Study",
+            "time": 13,
+            "marks": 5,
+            "frequency": 3
+        },
+        {
+            "question": "Define probability distribution.",
+            "label": "Study",
+            "time": 11,
+            "marks": 5,
+            "frequency": 2
+        },
+        {
+            "question": "Explain Monte Carlo method.",
+            "label": "Study",
+            "time": 13,
+            "marks": 5,
+            "frequency": 3
+        },
+        {
+            "question": "Difference between deterministic and stochastic methods.",
+            "label": "Study",
+            "time": 11,
+            "marks": 5,
+            "frequency": 2
+        },
+        {
+            "question": "Explain linear equations in computation.",
+            "label": "Study",
+            "time": 13,
+            "marks": 5,
+            "frequency": 3
+        },
+        {
+            "question": "Explain matrix operations.",
+            "label": "Study",
+            "time": 11,
+            "marks": 5,
+            "frequency": 2
+        },
+        {
+            "question": "Define eigenvalues and eigenvectors.",
+            "label": "Study",
+            "time": 13,
+            "marks": 5,
+            "frequency": 3
+        },
+        {
+            "question": "Explain numerical differentiation.",
+            "label": "Study",
+            "time": 11,
+            "marks": 5,
+            "frequency": 2
+        },
+        {
+            "question": "Explain numerical integration.",
+            "label": "Study",
+            "time": 11,
+            "marks": 5,
+            "frequency": 2
+        },
+        {
+            "question": "Explain Euler method.",
+            "label": "Study",
+            "time": 20,
+            "marks": 10,
+            "frequency": 3
+        },
+        {
+            "question": "Explain Runge-Kutta method.",
+            "label": "Study",
+            "time": 19,
+            "marks": 10,
+            "frequency": 2
+        },
+        {
+            "question": "Compare Euler and RK methods.",
+            "label": "Study",
+            "time": 20,
+            "marks": 10,
+            "frequency": 3
+        },
+        {
+            "question": "Explain solution of ODEs.",
+            "label": "Study",
+            "time": 20,
+            "marks": 10,
+            "frequency": 3
+        },
+        {
+            "question": "Explain boundary value problems.",
+            "label": "Study",
+            "time": 20,
+            "marks": 10,
+            "frequency": 3
+        },
+        {
+            "question": "Explain interpolation methods.",
+            "label": "Study",
+            "time": 19,
+            "marks": 10,
+            "frequency": 2
+        },
+        {
+            "question": "Explain least square method.",
+            "label": "Study",
+            "time": 20,
+            "marks": 10,
+            "frequency": 3
+        },
+        {
+            "question": "Explain error analysis.",
+            "label": "Study",
+            "time": 19,
+            "marks": 10,
+            "frequency": 2
+        },
+        {
+            "question": "Explain Taylor series method.",
+            "label": "Study",
+            "time": 20,
+            "marks": 10,
+            "frequency": 3
+        },
+        {
+            "question": "Explain finite difference method.",
+            "label": "Study",
+            "time": 19,
+            "marks": 10,
+            "frequency": 2
+        },
+        {
+            "question": "Explain Newton\u2019s laws in computation.",
+            "label": "Study",
+            "time": 13,
+            "marks": 5,
+            "frequency": 3
+        },
+        {
+            "question": "Explain motion simulation.",
+            "label": "Study",
+            "time": 11,
+            "marks": 5,
+            "frequency": 2
+        },
+        {
+            "question": "Define force and acceleration.",
+            "label": "Skip",
+            "time": 9,
+            "marks": 2,
+            "frequency": 3
+        },
+        {
+            "question": "Define velocity and displacement.",
+            "label": "Skip",
+            "time": 9,
+            "marks": 2,
+            "frequency": 3
+        },
+        {
+            "question": "Explain numerical solution of motion.",
+            "label": "Study",
+            "time": 13,
+            "marks": 5,
+            "frequency": 3
+        },
+        {
+            "question": "Define simple harmonic motion.",
+            "label": "Skip",
+            "time": 7,
+            "marks": 2,
+            "frequency": 2
+        },
+        {
+            "question": "Explain SHM equations.",
+            "label": "Skip",
+            "time": 9,
+            "marks": 2,
+            "frequency": 3
+        },
+        {
+            "question": "Explain oscillations in computation.",
+            "label": "Study",
+            "time": 13,
+            "marks": 5,
+            "frequency": 3
+        },
+        {
+            "question": "Explain damping in SHM.",
+            "label": "Study",
+            "time": 11,
+            "marks": 5,
+            "frequency": 2
+        },
+        {
+            "question": "Define frequency and amplitude.",
+            "label": "Skip",
+            "time": 7,
+            "marks": 2,
+            "frequency": 2
+        },
+        {
+            "question": "Define phase in SHM.",
+            "label": "Skip",
+            "time": 7,
+            "marks": 2,
+            "frequency": 2
+        },
+        {
+            "question": "Explain energy in SHM.",
+            "label": "Study",
+            "time": 11,
+            "marks": 5,
+            "frequency": 2
+        },
+        {
+            "question": "Explain projectile motion simulation.",
+            "label": "Study",
+            "time": 11,
+            "marks": 5,
+            "frequency": 2
+        },
+        {
+            "question": "Define time step in simulation.",
+            "label": "Skip",
+            "time": 9,
+            "marks": 2,
+            "frequency": 3
+        },
+        {
+            "question": "Explain stability in motion simulation.",
+            "label": "Study",
+            "time": 11,
+            "marks": 5,
+            "frequency": 2
+        },
+        {
+            "question": "Explain error in simulation.",
+            "label": "Study",
+            "time": 11,
+            "marks": 5,
+            "frequency": 2
+        },
+        {
+            "question": "Explain computational modeling.",
+            "label": "Study",
+            "time": 11,
+            "marks": 5,
+            "frequency": 2
+        },
+        {
+            "question": "Write short note on Python in physics.",
+            "label": "Study",
+            "time": 11,
+            "marks": 5,
+            "frequency": 2
+        },
+        {
+            "question": "Explain graphical visualization.",
+            "label": "Study",
+            "time": 13,
+            "marks": 5,
+            "frequency": 3
+        },
+        {
+            "question": "Define variables in simulation.",
+            "label": "Skip",
+            "time": 7,
+            "marks": 2,
+            "frequency": 2
+        }
+    ],
+    "total_time": 600
+}
